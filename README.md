@@ -7,7 +7,7 @@
 - 💬 Ask me about trouble shooting. I believe emotional self regulation and "Googling" skills are arts to be mastered
 - 📫 How to reach me: alejandra.orcutt@gmail.com
 - 😄 Pronouns: She/Hers
-- ⚡ Fun fact #1: When I was 3 or 4, I was eating a piece of meat in someone's backyard. Suddenly, a chicken came out of nowhere and started to chase me to steal the piece of meat I was holding. I run terrified trying to outrun the chicken. I do not remember who ended up keeping the meat.
+- ⚡ Fun fact #1: When I was 3 or 4, I was eating a piece of meat in someone's backyard. Suddenly, a chicken came out of nowhere and started to chase me to steal the piece of meat I was holding. I ran terrified trying to outrun the chicken. I do not remember who ended up keeping the meat.
 - ⚡ Fun fact #2: After that, I became a vegetarian.
 
 <!--
