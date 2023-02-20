@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on learning Java for backend development.
-- 🌱 I’m currently learning how to create loops and simple appliations using Java
+- 🌱 I’m workijg on creatin a WebApp in Spring Boot
 - 👯 I’m looking to collaborate on projects that require knowledge of cloud computing or need data pipelines using SQL and Python 
 - 🤔 I’m looking to learn something new everyday
 - 💬 Ask me about trouble shooting. I believe emotional self regulation and "Googling" skills are arts to be mastered
