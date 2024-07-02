@@ -6,7 +6,6 @@
 - 🤔 I’m looking to learn something new every day
 - 💬 Ask me about troubleshooting. I believe emotional self-regulation and "Googling" skills are arts to be mastered
 - 📫 How to reach me: alejandra.orcutt@gmail.com
-- 😄 Pronouns: She/Hers
 - ⚡ Fun fact #1: I am a mom of a Twice-Exceptional child. 2e kids are children that have exceptional ability but also a disability like ADHD, autism, dyslexia or a learning disorder. 
 <!--
 **AlejandraOrcutt/AlejandraOrcutt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
