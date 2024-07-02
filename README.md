@@ -1,7 +1,5 @@
  Hi there 👋
 
-- As for MML goes, I'm hooked to FSD. Use my referral link if you ever want to buy a Tesla for 3 months free FSD or schedule a test drive https://www.tesla.com/referral/christopher25604 
-
 🔭 I’m currently learning Java for backend development.
 - 🌱 I’m working on creating a WebApp in Spring Boot
 - 👯 I’m looking to collaborate on projects that require knowledge of cloud computing or need data pipelines using SQL and Python 
